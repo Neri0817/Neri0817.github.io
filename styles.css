@@ -853,7 +853,7 @@ header {
 }
 
 /* preloader*/
-#preloader {
+/* #preloader {
   background: #ffffff url(./images/Preloader.gif) no-repeat center center;
   background-size: 40%;
   height: 98vh;
@@ -861,7 +861,7 @@ header {
   position: fixed;
   z-index: 100;
   transition: 0.5s all linear;
-}
+} */
 
 /* Reservation-hotel Page */
 
